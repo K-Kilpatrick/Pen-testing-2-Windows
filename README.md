@@ -2,6 +2,7 @@
 Module 17: Introduction to Windows Penetration Testing, Windows Exploitation, Privilege Escalation, and Credential Access, Windows Persistence, Lateral Movement, Credential Access, and Review
 
 Module Description
+
 During this second penetration testing module, students will continue their penetration testing engagement with a focus on testing Windows operating systems.
 
 Module Objectives
